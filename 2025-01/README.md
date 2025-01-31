@@ -11,15 +11,13 @@ Milestone 1 - estimated completion date: 01/31/2025
 We are thrilled about our promising start to 2025 and have exciting news for the community. Our commitment to expanding Zcash in Brazil is stronger than ever.
 
 - To ensure transparency, we have created an open repository on GitHub where all our activities and updates will be documented. You can access it here. This demonstrates our dedication to everyone involved with Zcash.
-https://github.com/james-katz/zcash-brazil/milestones
-![milestone|690x206, 100%](upload://jlgXXH4RR6zihLyJjUvSCulqkqw.png)
+https://github.com/james-katz/zcash-brazil![milestone](https://hackmd.io/_uploads/S14vOuYdJl.png)
 
+- As a first step, we have developed an education framework (PTT + BRAND) aimed at onboarding new Zcashers. This initiative will provide training for new members interested in discussing Zcash and earning their first ZEC.
 
-- As a first step, we have developed an education framework (PPT + BRAND) aimed at onboarding new Zcashers. This initiative will provide training for new members interested in discussing Zcash and earning their first ZEC, project: Zcash Junior Brasil
+- We will also be hosting our first stand in Brazil, featuring engaging art and fantastic giveaways, at a medium to large event in Minas Gerais from February 25th to March 1st. We are proud to be sponsors and will have a stage where our team will discuss Zcash.
 
-- We will also be hosting our first stand in Brazil, featuring engaging art and giveaways, at a medium to a large event in Minas Gerais from February 26th to March 1st. We are proud to be sponsors and will have a stage where our team will discuss Zcash - Modular Carnival
-
-- In exciting news, we have established our first fiat on-ramp in Brazil through the partnership of Zashi with Coinbase. We will be starting work on this soon to create a marketing campaign in Brazil.
+- In exciting news, we have established our first fiat on-ramp in Brazil through a partnership with Zashi and Coinbase. We will be starting work on this soon, fine-tuning the details to ensure a smooth rollout.
 
 - Additionally, we have applied to present at ZconVI on the topic of "Brazilian CBDC vs. Privacy Implications."
 
@@ -31,7 +29,7 @@ https://github.com/james-katz/zcash-brazil/milestones
 
 - Our design team has been doing a remarkable job, and we will share updates as soon as they go live.
 
-- We are continuing with all translations, research, moderation, calls, articles, quizzes, and testing of new products related to Zcash. We have a strong presence on social media, ZecHub DAO, etc.
+- We are continuing with all translations, research, moderation, and testing of new products related to Zcash. We have a strong presence on social media, ZecHub DAO, etc.
 
 ---
 
@@ -42,81 +40,81 @@ We are very happy to present our first milestone 2025.
 **DISCORD**
 
 New Banner
-![Captura de tela 2025-01-29 233317](upload://33qFPoEoYthjFzXodZ6er5Ieo5d.jpeg)
+![Captura de tela 2025-01-29 233317](https://hackmd.io/_uploads/BJ7zSvuu1l.jpg)
 *https://discord.com/channels/978714252934258779/1325213772163584041/1331038438350262445*
 
 New server Icon
-![Logo_Zcash_Server-ezgif.com-optimize](upload://55JJXF5OYwY6ItcxVWVicNB0JWl.gif)
+![Logo_Zcash_Server-ezgif.com-optimize](https://hackmd.io/_uploads/HJOP8Du_kx.gif)
 
-![](upload://3asQ4ovLPYIgeFJELEOhGD2vyTT.png)
+![](https://hackmd.io/_uploads/SJZeiMq_h.png)
 
 **SOCIAL MEDIA**
 
 New X Top Banner
-![image](upload://hqiQF2QbplxwwsBVnOHCVAxiJlC.png)
+![image](https://hackmd.io/_uploads/BkyrFrVOJx.png)
 *https://x.com/zcashbrazil*
 
-![](upload://3asQ4ovLPYIgeFJELEOhGD2vyTT.png)
+![](https://hackmd.io/_uploads/SJZeiMq_h.png)
 
 Banners of Zcash Shilded News Substack Articles and X posts
 
 **Vol#11**
-![494fda57-cadf-49ec-b954-1bf0ce0db9dd_1920x1080](upload://vg2QBxEHyjzraC2lxzSx1My61is.jpeg)
+![494fda57-cadf-49ec-b954-1bf0ce0db9dd_1920x1080](https://hackmd.io/_uploads/H1kXVr4dyx.jpg)
 *https://x.com/zcashbrazil/status/1876242547141714063*
 https://zcashbrazil.substack.com/p/zcash-shielded-news-vol-11
 
 ---
 
 **Vol#12**
-![GhCh6W_WYAA_4eO](upload://rltP6SFaiahU3IqboMBqz0ji3l3.jpeg)
-![fe2f2153-3d10-4efd-b382-15992c9a0f55_1920x1080](upload://r15Sa2sMwYXmLUMJW0zwXpHPMmA.jpeg)
-![2f2ac226-93f1-474c-87e0-bed93d0b684a_1920x1080](upload://iC6rHJ9b7QOfiHUFAaUOPiFomfR.jpeg)
-![7c834d59-3356-4008-9c65-27d1586d69a4_1920x1080](upload://jpiFuYzw9TREeIbDHSkqXl5hH6P.jpeg)
+![GhCh6W_WYAA_4eO](https://hackmd.io/_uploads/B1AGLHVdkx.jpg)
+![fe2f2153-3d10-4efd-b382-15992c9a0f55_1920x1080](https://hackmd.io/_uploads/ryGXIHE_Jx.jpg)
+![2f2ac226-93f1-474c-87e0-bed93d0b684a_1920x1080](https://hackmd.io/_uploads/rJL4IrN_kl.jpg)
+![7c834d59-3356-4008-9c65-27d1586d69a4_1920x1080](https://hackmd.io/_uploads/Hy5V8SEuke.jpg)
 *https://x.com/zcashbrazil/status/1878179801715941527*
 *https://zcashbrazil.substack.com/p/zcash-shielded-news-vol-12*
 
 ---
 
 **Vol#13**
-![Ghml_epXoAAz_aO](upload://lbpWJVEiCtsq3T8yny2S2p1jPfh.jpeg)
-![b25f243f-7259-4e31-9db8-bd6b71091cec_1181x663](upload://y0ksocmI9IFwYFqNf35Zp72ziD2.jpeg)
-![aeb3821d-4e3a-4ae7-ad87-d76db8d79fb8_1174x663](upload://lPh2weJf6b5SGAqiCVgwFaUErHM.jpeg)
-![4baa4578-042a-4075-a008-cc8f70a8f1d0_1920x1080](upload://afdrH6DpAT9HasIYksw6ftrvaxC.jpeg)
-![e6885fa0-0ccb-4d47-95c4-dc2532add252_1920x1080](upload://uJ6cZD0DxZvaGxPfjRonQ6IKG3k.jpeg)
+![Ghml_epXoAAz_aO](https://hackmd.io/_uploads/BJD6Dr4uye.jpg)
+![b25f243f-7259-4e31-9db8-bd6b71091cec_1181x663](https://hackmd.io/_uploads/S1zg_SVOke.jpg)
+![aeb3821d-4e3a-4ae7-ad87-d76db8d79fb8_1174x663](https://hackmd.io/_uploads/H1hg_S4_yx.jpg)
+![4baa4578-042a-4075-a008-cc8f70a8f1d0_1920x1080](https://hackmd.io/_uploads/SJFfdB4_1g.jpg)
+![e6885fa0-0ccb-4d47-95c4-dc2532add252_1920x1080](https://hackmd.io/_uploads/S1O7drVuJx.jpg)
 *https://x.com/zcashbrazil/status/1880729407980994624*
 *https://zcashbrazil.substack.com/p/zcash-shielded-news-13*
 
 ---
 
 Banner Zcash Shilded Call
-![Gh2JYfUXsAAWVyY](upload://24PcnGjWCG1s5KrXxgDQKBtB1n.jpeg)
+![Gh2JYfUXsAAWVyY](https://hackmd.io/_uploads/rkpAuSN_1e.jpg)
 *https://x.com/zcashbrazil/status/1881813437761925599*
 *https://youtu.be/RfmjMo0FeTM?si=uHMwmXHC9yICNDJc*
 
 ---
 
 Zcash Shilded Quiz
-![GhWBjDQXEAEbPbG](upload://aTtZ8U1EbsRDolphG5IFReqworP.jpeg)
+![GhWBjDQXEAEbPbG](https://hackmd.io/_uploads/B1HsIH4u1x.jpg)
 *https://x.com/zcashbrazil/status/1879553179198616035*
 *https://www.instagram.com/p/DE2g8o9OAT3/*
 
 ---
 
 Banner Community Call "Chamada da Comunidade" 
-![GgupmUEXwAAPDad](upload://y3E0at2MspVTwyu2UZcWSl2U79a.jpeg)
+![GgupmUEXwAAPDad](https://hackmd.io/_uploads/HJklHBEOkl.jpg)
 *https://x.com/zcashbrazil/status/1876780156355744240*
 *https://www.instagram.com/p/DEi01Xms4ih/*
 
-![](upload://3asQ4ovLPYIgeFJELEOhGD2vyTT.png)
+![](https://hackmd.io/_uploads/SJZeiMq_h.png)
 
 ECC Roadmap Infographic (https://electriccoin.co/wp-content/uploads/2024/10/ECC-Roadmap_-October-2024.pdf)
-![GgyME-hXQAATyOQ](upload://gspDZF5wZKmzkRmWeb8AHtEAhQw.jpeg)
+![GgyME-hXQAATyOQ](https://hackmd.io/_uploads/H19FErVdJx.jpg)
 *https://x.com/zcashbrazil/status/1877029519556567161*
 
 ---
 
 Banner ECC transparency Repport 
-![Gg3t7HNW0AAEMSl](upload://shAgioT7NerQ9VDsGQD9O3plOGd.jpeg)
+![Gg3t7HNW0AAEMSl](https://hackmd.io/_uploads/HJmNSBEuJx.jpg)
 *https://x.com/zcashbrazil/status/1877419280868003936/photo/1*
 *https://zcashbrazil.substack.com/p/relatorio-de-transparencia-ecc-dezembro*
 
@@ -124,69 +122,69 @@ Banner ECC transparency Repport
 
 Youtube Shorts 
 Translation of Arborist Call Shorts
-![ArboristCallShort](upload://qrZjKvcAR4DtDY14khRuvwSRJwl.jpeg)
+![ArboristCallShort](https://hackmd.io/_uploads/H1ESDvuOJe.jpg)
 *https://www.youtube.com/shorts/gfUosQeE1yM*
 
 ---
 
 Translation to English Bitcoin Importance - CBDC BLKC Special
-![Captura de tela 2025-01-29 235013](upload://vJXHDCy0ANYxloeLGAJCK3wGS6j.jpeg)
+![Captura de tela 2025-01-29 235013](https://hackmd.io/_uploads/ry3QYv_uke.jpg)
 *https://www.youtube.com/watch?v=gfUosQeE1yM*
 
 ---
 
 Translation to English Data Protection Law - CBDC BLKC Special
-![Captura de tela 2025-01-30 000343](upload://5GMxo5uNcqp6SHTONAsUTwGtmct.jpeg)
+![Captura de tela 2025-01-30 000343](https://hackmd.io/_uploads/rkJAnPOuJe.jpg)
 *https://www.youtube.com/shorts/sO9YhDoy-RA*
 
 ---
 
 Translation of ZSA Use Cases in the Pharmaceutical Industry
-![Captura de tela 2025-01-29 235450](upload://g7BeBhhviCjPu06cbOpmltNnB9N.jpeg)
+![Captura de tela 2025-01-29 235450](https://hackmd.io/_uploads/Hym95vOOyl.jpg)
 *https://www.youtube.com/shorts/QT6KJCDu4R8*
 
 ---
 
 Translation of Zcash vs Quantum Computing
 
-![Captura de tela 2025-01-29 235951](upload://g8AgeS6KKo8oUSchLNdPVpVgSud.jpeg)
+![Captura de tela 2025-01-29 235951](https://hackmd.io/_uploads/ryhtsPdukg.jpg)
 *https://www.youtube.com/shorts/e6PhXhPXSxY*
 
 ---
 Translation of Discover the Real Value of the Zcash Protocol
-![Captura de tela 2025-01-30 000840](upload://AoME0b338WFLPP8tVo6mwYJXRpN.jpeg)
+![Captura de tela 2025-01-30 000840](https://hackmd.io/_uploads/H1l9aDOdkg.jpg)
 *https://www.youtube.com/shorts/s0S8sfl7ezA*
 
 ---
 
 Translation of Zcash Hibrid PoW PoS
-![Captura de tela 2025-01-30 001056](upload://QBPDXMUACPMQmcd4N4QgqHLFlg.jpeg)
+![Captura de tela 2025-01-30 001056](https://hackmd.io/_uploads/BJnXCvuukg.jpg)
 *https://www.youtube.com/shorts/oV1PwQr5fAk*
 
-![](upload://3asQ4ovLPYIgeFJELEOhGD2vyTT.png)
+![](https://hackmd.io/_uploads/SJZeiMq_h.png)
 
 Banner of project "Zcasher Junior Brasil" 
-![Gg46x6wXQAAswNe](upload://1xdQLYjENJ6eolod99Tbrp6KDz.jpeg)
+![Gg46x6wXQAAswNe](https://hackmd.io/_uploads/BkWhSHEOke.jpg)
 *https://x.com/zcashbrazil/status/1877505190053429600*
 
 ---
 
 Banner Zcash Junior project
-![Gid6Ui5XYAANrnf](upload://HJ6l5wrwgDuI28xpam5eujGZfR.jpeg)
+![Gid6Ui5XYAANrnf](https://hackmd.io/_uploads/rknnkMud1g.jpg)
 *https://x.com/zcashbrazil/status/1884611660922413255*
 *https://www.instagram.com/p/DFacbq8OLkW/*
 
-![](upload://3asQ4ovLPYIgeFJELEOhGD2vyTT.png)
+![](https://hackmd.io/_uploads/SJZeiMq_h.png)
 
 Banner of Zcash Brasil on Modular Carnival
-![Ghbc676XYAE0vMW](upload://dSRy5e9i64elGRn3jO77xkQlrSd.jpeg)
+![Ghbc676XYAE0vMW](https://hackmd.io/_uploads/rkiWPSVOkx.jpg)
 *https://x.com/zcashbrazil/status/1879936036916306195*
 *https://www.instagram.com/p/DE5QQveuDDQ/*
 
 ---
 
 Banner Calling Community to watch ZeWif Zoom Meeting streamed on Discord
-![GhxMqNaXIAAg_99](upload://fsauIuFLrjDvuBcHfEwg5DBIv3a.jpeg)
+![GhxMqNaXIAAg_99](https://hackmd.io/_uploads/BkdDuH4uJl.jpg)
 *https://x.com/zcashbrazil/status/1881465126026649969*
 
 ---
@@ -194,39 +192,39 @@ Banner Calling Community to watch ZeWif Zoom Meeting streamed on Discord
 **Meme**
 
 Zepe
-![GgZQOpAW0AArqRG](upload://2ltgx4jkKt5WLo5psyrubFG50Zd.png)
+![GgZQOpAW0AArqRG](https://hackmd.io/_uploads/BJs3tSV_Jl.png)
 *https://x.com/pedamerico/status/1875275210406166586*![Gg4D7tPWIAAkZgs]
 
 ---
 
 Youtube thumbnail and translation to portuguese "How Flexa and Zashi Integration Protects Consumer Privacy"
-![Privacidade](upload://mNZAJHkBgqcYHGVr9vPdgPm0Gww.png)
+![Privacidade](https://hackmd.io/_uploads/HJVh87OdJg.png)
 *https://youtu.be/lHeTVBu3Tik?si=kEQ9bQwq4JfKseeb*
 
 ---
 
 Emoji Meme
-![Gg4D7tPWIAAkZgs](upload://2EBfM2asD5DHIIs8Avcntlute8e.png)
+![Gg4D7tPWIAAkZgs](https://hackmd.io/_uploads/S1WwmSH_1e.png)
 *https://x.com/taminevg/status/1877443165751263604*
 
 ---
 
 Personal Data Protection Internacional Day Post
-![GiaqSfJXwAEkfhd](upload://gp6Q907cTlf5XGjzxEnlBhOx9D9.jpeg)
+![GiaqSfJXwAEkfhd](https://hackmd.io/_uploads/HJ3mCBOdyl.jpg)
 *https://x.com/zcashbrazil/status/1884381614580617638*
 *https://www.instagram.com/zcashbrazil/p/DFYzfB0ySe1/*
 
-![](upload://3asQ4ovLPYIgeFJELEOhGD2vyTT.png)
+![](https://hackmd.io/_uploads/SJZeiMq_h.png)
 
 Zcash Presentation Layout
 
-![Captura de tela 2025-01-27 181410](upload://aK41FQvDmRXmELIXMrIIgaXuT76.jpeg)
-![Captura de tela 2025-01-27 181507](upload://u4FCHRQcMJzk0B0qgEsokHsQ3WZ.jpeg)
-![Captura de tela 2025-01-27 182817](upload://7guLTYPVvGDSpGFhwhRC3HAxDaM.jpeg)
-![Captura de tela 2025-01-27 182854](upload://ttqguhJrSN5tTWVDBR5tsGrNxKO.jpeg)
-![Captura de tela 2025-01-27 183011](upload://v4VvG8VM2FETKnmSuJQYttKu02q.jpeg)
+![Captura de tela 2025-01-27 181410](https://hackmd.io/_uploads/SyNgndBdyg.jpg)
+![Captura de tela 2025-01-27 181507](https://hackmd.io/_uploads/Hk4lhuSOJe.jpg)
+![Captura de tela 2025-01-27 182817](https://hackmd.io/_uploads/SyVxhdHu1l.jpg)
+![Captura de tela 2025-01-27 182854](https://hackmd.io/_uploads/Hy4g2uH_kx.jpg)
+![Captura de tela 2025-01-27 183011](https://hackmd.io/_uploads/S1EgnuBuJg.jpg)
 
-![](upload://3asQ4ovLPYIgeFJELEOhGD2vyTT.png)
+![](https://hackmd.io/_uploads/SJZeiMq_h.png)
 
 Brand kit 
 We, the design team, have gathered and made available png, jpg and svg files of some of the most relevant logos to the Zcash ecosystem for use by us at Zcash Brasil, ZecHub, collaborators and new ambassadors. With this kit in a zip format, it makes life easier for those who need to develop promotional material. A few wallets are still missing, but the update is on going.
@@ -303,6 +301,7 @@ Certain services depend on VPC hosting and other cloud resources. The following 
 - **OpenAI API Keys** – Used for ZecGPT Discord bot.
 - All payments for these services are fully up to date, ensuring uninterrupted operation.
 
+
 ---
 
 ### EZEC Zcash Brazil January Report
@@ -323,25 +322,26 @@ Our goal is to encourage participation in all community activities, including:
 
 ### Roadmap Presentation and Plans for 2025
 
-![First call of the year](upload://9MYaC15V3RPFK9oRcp2NEMtJGfr.png)
+![First call of the year](https://hackmd.io/_uploads/SJXJLHZuye.png)
 Presented by me, Michael, and Iogy.
 
 ### ZScall covering all ecosystem updates for the week
 
-![primeira call do ano ](upload://9MYaC15V3RPFK9oRcp2NEMtJGfr.png)
+![primeira call do ano ](https://hackmd.io/_uploads/SJXJLHZuye.png)
 Presented by me, Michael, and Iogy. 
 
-![ZScall 6](upload://pfdSgwYW2O7zPQ79XzunzlzsVY2.png)
+
+![ZScall 6](https://hackmd.io/_uploads/SyGELSZOJx.png)
 
 Presented by me, Michael.
 
 ### Zcash Shiwlsws Quiz 
 
-![Screenshot_2](upload://wPv1jMW8WR0MwQ6ZCda6NlTXxlG.png)
+![Screenshot_2](https://hackmd.io/_uploads/BkYdgPFdke.png)
 
 Presented by me, Michael, and Iogy. 
 
-## Articles translated 
+## articles translate 
 
 ### Zcash Shielded News V|11
 
@@ -350,6 +350,7 @@ Presented by me, Michael, and Iogy.
 [Zcash Shielded News - Free2Z](https://free2z.cash/ZcashBR/zpage/zcashshieldednews)
 
 [Zcash Shielded News - Odysee](https://odysee.com/@zcashbrasil:a/zcashshieldednews11:2)
+
 
 [Mee6 no Discord](https://discord.com/channels/978714252934258779/1120388268819755068/1325620888149823509)
 
@@ -493,12 +494,12 @@ Presented by me, Michael, and Iogy.
 Head and Growth Team: $7,000
 Dev team: $3,750
 Design Team: $5,000
-Monthly Costs: $232.84 -> [ALL Receipts](https://github.com/james-katz/zcash-brazil/issues/27)
-Events cost: $4686,83 -> [ALL Receipts](https://github.com/james-katz/zcash-brazil/issues/27)
-
-**Total:** $20669,67
+Montly Costs: $232.84
+Events cost:
+[ALL Receipts](https://github.com/james-katz/zcash-brazil/issues/27)
 
 ----- 
+**Total: $**
 
 (You will be paid out in ZEC based on the USD market price at payout time.)
 
